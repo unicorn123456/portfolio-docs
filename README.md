@@ -15,8 +15,8 @@ These documents reflect real product decisions made while building and operating
 - **[Roadmap](./Roadmap.md)**
   Past, present, and future feature priorities, sequenced against GDPR compliance, first paying customer, and Gulf market expansion.
 
-- **[User interview discussion guide](./User_Interview.md)**
-  Reusable interview template for validating product assumptions with clinic staff.
+- **[User interview](./Real_Interview.md)**
+  Findings from a real clinic receptionist interview — covering current workflow gaps, trust requirements for AI adoption, and a key edge case (appointment duration) that fed back into the PRD.
 
 - **[Clinic outreach findings](./Clinic_Outreach_Findings.md)**
   Field notes synthesized from informal conversations with ~20 Stockholm clinics during direct outreach — covering current reception workflows and reaction to AI-driven alternatives.
