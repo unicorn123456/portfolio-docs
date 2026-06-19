@@ -36,3 +36,6 @@ Ikbal Ismail — licensed dentist (DDS, Karolinska Institutet), DevOps engineeri
 
 - **[Meta Ads campaign plan](./Aurive_Meta_Ads_Campaign_Plan.md)**
   Targeting, creative, and budget specification for a planned Meta Ads test, built directly on insights from real clinic outreach conversations.
+
+- **[SEO blog posts (English summary)](./SEO_Blog_Posts_English_Summary.md)**
+  Three SEO-targeted blog posts written for aurive.se in Swedish, summarized here in English. Covers after-hours booking loss, local SEO strategy, and multilingual patient communication.
