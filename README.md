@@ -39,3 +39,6 @@ Ikbal Ismail — licensed dentist (DDS, Karolinska Institutet), DevOps engineeri
 
 - **[SEO blog posts (English summary)](./SEO_Blog_Posts_English_Summary.md)**
   Three SEO-targeted blog posts written for aurive.se in Swedish, summarized here in English. Covers after-hours booking loss, local SEO strategy, and multilingual patient communication.
+
+  - **[Build retrospective](./Retrospective.md)**
+  A retrospective on building V\u00e5rdAI solo without a formal Scrum process — what worked, what took longer than expected (AI triage tuning), and how a definition of done would have prevented the overrun.
